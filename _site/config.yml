@@ -1,0 +1,4 @@
+# _config.yml
+title: BlueChat
+description: A modern, clean chat-inspired project
+theme: jekyll-theme-cayman
