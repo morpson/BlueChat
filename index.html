@@ -40,6 +40,9 @@
             border-radius: 5px;
             overflow-x: auto;
         }
+        .audio-player {
+            margin-top: 30px;
+        }
     </style>
 </head>
 <body>
@@ -52,8 +55,16 @@
 
     <h2>Latest Episodes</h2>
     <ul class="episode-list">
-        <li><a href="audio/ClayeAndCole.mp3">Episode 1: Claye & Cole</a></li>
+        <li><a href="audio/test-clip.mp3">Episode 1: Claye & Cole (1-minute clip)</a></li>
         <!-- Add more episodes here as they become available -->
     </ul>
+    
+    <div class="audio-player">
+        <h3>Listen Now</h3>
+        <audio controls>
+            <source src="audio/test-clip.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+    </div>
 </body>
 </html>
