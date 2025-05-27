@@ -8,6 +8,7 @@
     <description>iMessage to Podcast RSS feed</description>
     <itunes:image href="https://morpson.github.io/BlueChat/artwork.jpg"/>
     <itunes:category text="Technology"/>
+    <itunes:explicit>no</itunes:explicit>
     
     <item>
       <title>Episode 1: Claye &amp; Cole</title>
@@ -15,9 +16,10 @@
       <pubDate>Wed, 15 May 2024 12:00:00 GMT</pubDate>
       <enclosure url="https://morpson.github.io/BlueChat/audio/Claye &amp; Cole.opus" 
                  length="15631844" 
-                 type="audio/opus"/>
+                 type="audio/ogg"/>
       <guid isPermaLink="false">bluechat-claye-cole</guid>
       <itunes:duration>30:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     
   </channel>
