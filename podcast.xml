@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>BlueChat</title>
+    <link>https://morpson.github.io/BlueChat</link>
+    <language>en-us</language>
+    <itunes:author>BlueChat</itunes:author>
+    <description>iMessage to Podcast RSS feed</description>
+    <itunes:image href="https://morpson.github.io/BlueChat/artwork.jpg"/>
+    <itunes:category text="Technology"/>
+    
+    <item>
+      <title>Episode 1: Claye &amp; Cole</title>
+      <description>Episode 1: Claye &amp; Cole conversation</description>
+      <pubDate>Wed, 15 May 2024 12:00:00 GMT</pubDate>
+      <enclosure url="https://morpson.github.io/BlueChat/audio/Claye &amp; Cole.opus" 
+                 length="15631844" 
+                 type="audio/opus"/>
+      <guid isPermaLink="false">bluechat-claye-cole</guid>
+      <itunes:duration>30:00</itunes:duration>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+# Jekyll build files
+_site/
+.jekyll-cache/
+.sass-cache/
+.jekyll-metadata
+
+# Ruby environment
+.bundle/
+vendor/
+
+# Mac OS files
+.DS_Store
+
+# Editor files
+*.swp
+*.swo
+.idea/
+.vscode/
+*.sublime-*
