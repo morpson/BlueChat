@@ -11,5 +11,5 @@ https://morpson.github.io/BlueChat/podcast.xml
 
 ## Latest Episodes
 
-- [Episode 1: Claye & Cole](audio/Claye%20%26%20Cole.opus)
+- [Episode 1: Claye & Cole](audio/clayeandcole.mp3)
 <!-- Add more episodes here as they become available -->
