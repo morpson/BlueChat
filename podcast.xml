@@ -6,35 +6,36 @@
     <language>en-us</language>
     <itunes:author>BlueChat</itunes:author>
     <description>iMessage to Podcast RSS feed</description>
-    <itunes:image href="https://morpson.github.io/BlueChat/episodes/ep2-artwork.png"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     
-  <item>
-    <title>Episode 2: Mallory &amp; Cole</title>
-    <description>Episode 2: Mallory &amp; Cole conversation</description>
-    <pubDate>Wed, 28 May 2025 12:00:00 GMT</pubDate>
-    <enclosure url="https://morpson.github.io/BlueChat/audio/MalloryAndCole.mp3" 
-               length="45600000" 
-               type="audio/mpeg"/>
-    <guid isPermaLink="false">bluechat-mallory-cole</guid>
-    <itunes:duration>01:05:31</itunes:duration>
-    <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://morpson.github.io/BlueChat/episodes/ep2-artwork.png"/>
-  </item>
+    <item>
+      <title>Episode 2: Mallory &amp; Cole</title>
+      <description>Episode 2: Mallory &amp; Cole conversation</description>
+      <pubDate>Wed, 28 May 2025 12:00:00 GMT</pubDate>
+      <link>https://morpson.github.io/BlueChat/episodes/ep2.html</link>
+      <enclosure url="https://morpson.github.io/BlueChat/audio/MalloryAndCole.mp3" 
+                 length="45600000" 
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">bluechat-mallory-cole</guid>
+      <itunes:duration>01:05:31</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://morpson.github.io/BlueChat/episodes/ep2-artwork.png"/>
+    </item>
     
-  <item>
-    <title>Episode 1: Claye &amp; Cole</title>
-    <description>Episode 1: Claye &amp; Cole conversation</description>
-    <pubDate>Wed, 28 May 2025 12:00:00 GMT</pubDate>
-    <enclosure url="https://morpson.github.io/BlueChat/audio/ClayeAndCole.mp3" 
-               length="45600000" 
-               type="audio/mpeg"/>
-    <guid isPermaLink="false">bluechat-claye-cole</guid>
-    <itunes:duration>01:05:31</itunes:duration>
-    <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://morpson.github.io/BlueChat/episodes/ep1-artwork.jpg"/>
-  </item>
+    <item>
+      <title>Episode 1: Claye &amp; Cole</title>
+      <description>Episode 1: Claye &amp; Cole conversation</description>
+      <pubDate>Wed, 28 May 2025 12:00:00 GMT</pubDate>
+      <link>https://morpson.github.io/BlueChat/episodes/ep1.html</link>
+      <enclosure url="https://morpson.github.io/BlueChat/audio/ClayeAndCole.mp3" 
+                 length="45600000" 
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">bluechat-claye-cole</guid>
+      <itunes:duration>01:05:31</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://morpson.github.io/BlueChat/episodes/ep1-artwork.jpg"/>
+    </item>
     
   </channel>
 </rss>
