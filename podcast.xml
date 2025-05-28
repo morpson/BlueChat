@@ -14,9 +14,9 @@
   <title>Episode 1: Claye &amp; Cole</title>
   <description>Episode 1: Claye &amp; Cole conversation</description>
   <pubDate>Wed, 15 May 2024 12:00:00 GMT</pubDate>
-  <enclosure url="https://github.com/morpson/BlueChat/blob/main/audio/clayeandcole.mp3" 
-             length="45600000" 
-             type="audio/mpeg"/>
+<enclosure url="https://morpson.github.io/BlueChat/audio/ClayeAndCole.mp3" 
+           length="45600000" 
+           type="audio/mpeg"/>
   <guid isPermaLink="false">bluechat-claye-cole</guid>
   <itunes:duration>01:05:31</itunes:duration>
   <itunes:explicit>no</itunes:explicit>
@@ -24,4 +24,3 @@
     
   </channel>
 </rss>
-
